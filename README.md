@@ -1,4 +1,5 @@
 **SVM is a machine learning algorithm used for classification.**
+
 *Working of SVM*
 1. Takes labeled data and tries to separate it into two classes.
 2. Draws a line that best divides the data points.
